@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_express_demo",
+  "version": "0.0.1",
+  "description": "Servidor nodejs con express para servir myapp",
+  "main": "index.js",
+  "author": "Gorka J",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
