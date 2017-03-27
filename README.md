@@ -1,4 +1,4 @@
-#Ejemplo nodejs + express. Servidor de un HTML estatico (Podria ser contenido DEV o PROD de cualquier aplicacion)
+## Ejemplo nodejs + express. Servidor de un HTML estatico (Podria ser contenido DEV o PROD de cualquier aplicacion)
 
 Se ha creado el servidor nodejs con <b>node init</b>.
 
@@ -10,4 +10,4 @@ Se crea un fichero HTML muy simple dentro de carpeta: myapp (contenido estatico 
 
 Se crea index.js con las instrucciones necesarias para que lance myapp en el servidor localhost:3001
 
-Se ejecuta con <b>node index.js</b> la aplicaciÛn que estar· corriendo en localhost:3001 en este caso.
+Se ejecuta con <b>node index.js</b> la aplicaci√≥n que estar√° corriendo en localhost:3001 en este caso.
